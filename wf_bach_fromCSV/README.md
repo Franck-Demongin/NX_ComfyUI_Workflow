@@ -1,6 +1,7 @@
 # Batch from CSV
 
-![_grid_styles](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/7216bf93-4a32-4e4b-9b7b-1273a42c04b4)
+![exemple_1](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/1ce9d605-d86e-421d-9036-429f34cd3a37)
+
 
 A workflow designed to simplify the generation of reference grids from the content of CSV files used to style prompts.
 It is suitable for CSV files with the following characteristics:
@@ -28,7 +29,7 @@ It is suitable for CSV files with the following characteristics:
 - You can restart the rendering of a specific image if there are any misfires in the batch: enter its number in the Select field and restart the rendering; only this image will be recreated.
 - when all the images have been generated (and corrected if necessary), deactivate group 2 (right-click > Bypass Group Nodes) and activate group 3 _GRID_, set the grid parameters (number of columns, thumbnail sizes, etc.) then render again. The generated grid will be saved in the same directory as the images.
 
-![wf_batch_from_CSV](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/bc54c114-1aac-4c05-af02-ce6fde11e79b)
+![hero_wf_batch_from_CSV](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/868a6f4d-4761-4448-9181-9be49a279f49)
 
 ***Enjoy!***
 

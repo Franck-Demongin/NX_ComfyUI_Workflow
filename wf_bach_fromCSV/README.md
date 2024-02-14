@@ -11,6 +11,7 @@ It is suitable for CSV files with the following characteristics:
 ## Features
 
 - choice of file to parse, name, extension and paths: _File Name_, _Extension_ and _Path to CSV_
+- [NEW] _Output Folder Prefix_ If this field is not empty, it is added to the beginning of the output folder name.
 - selection of CSV line to use (0 to generate all): _Select_
 - number of header lines to ignore: _Skip Lines_
 - customisable prompt containing the *\_keyword\_* token (it will be replaced by the terms extracted from each line of the CSV file): _Prompt_
@@ -29,7 +30,7 @@ It is suitable for CSV files with the following characteristics:
 - You can restart the rendering of a specific image if there are any misfires in the batch: enter its number in the Select field and restart the rendering; only this image will be recreated.
 - when all the images have been generated (and corrected if necessary), deactivate group 2 (right-click > Bypass Group Nodes) and activate group 3 _GRID_, set the grid parameters (number of columns, thumbnail sizes, etc.) then render again. The generated grid will be saved in the same directory as the images.
 
-![hero_wf_batch_from_CSV](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/868a6f4d-4761-4448-9181-9be49a279f49)
+![hero_wf_batch_from_CSV](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/fff4b98c-9fbe-4d27-83fa-31edaf8591d3)
 
 ***Enjoy!***
 

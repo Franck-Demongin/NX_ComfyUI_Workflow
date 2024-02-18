@@ -15,11 +15,11 @@ A workflow designed to simplify the generation of reference grids from the conte
 
 ## Usage
 
-Fill in the fields in the "File and Output Path & Select Lines" group. Wildcard file source, starting index, selection range and output folder.
+Fill in the fields in the "PRESETS" group. 4 prompts, retaining the _WILDCARD_ keyword, Wildcard file source, starting index, selection range and output folder.
+Set the KSampler parameters Model, Seed, Steps, CFG, Sampler and Scheduler.
 
-In the "Prompts" group, enter 1 to 4 prompts, retaining the _WILDCARD_ keyword.
-
-Set the KSampler parameters in the "KSample Parameters" group. Model, Seed, Steps, CFG, Sampler and Scheduler.
+To generate a batch, activate GENERATE in the "Fast Group Muter" node and deactivate GRID.  
+To generate a grid, activate GRID and deactivate GENERATE. 
 
 > [!NOTE]
 > If you don't want to use the 4 prompts, disable the Loaders and the corresponding KSamplers and disconnect the KSamplers' image outputs from the "Make Image Batch" node.
@@ -27,6 +27,7 @@ Set the KSampler parameters in the "KSample Parameters" group. Model, Seed, Step
 > [!NOTE]
 > The order of the prompts for each wildcard is determined by the order in which the KSamplers are connected to the "Make Image Bach" node.
 
-![hero_wf_batch_wildcard](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/54e50826-6d4e-46b3-bc50-2bf5388fab3a)
+![hero_wf_batch_wildcard](https://github.com/Franck-Demongin/NX_ComfyUI_Workflow/assets/54265936/dc94ca8e-3edc-4d17-ad91-5011ea41068f)
+
 
 

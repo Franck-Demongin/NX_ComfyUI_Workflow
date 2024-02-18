@@ -1,13 +1,13 @@
 {
-  "last_node_id": 321,
-  "last_link_id": 595,
+  "last_node_id": 363,
+  "last_link_id": 631,
   "nodes": [
     {
       "id": 143,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1799.59814453125,
-        "1": 2034.083740234375,
+        "0": 1799.7940673828125,
+        "1": 1920,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -22,7 +22,7 @@
         30
       ],
       "flags": {},
-      "order": 39,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -68,8 +68,8 @@
       "id": 144,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1859.59814453125,
-        "1": 2114.081787109375,
+        "0": 1859.7940673828125,
+        "1": 2000,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -84,7 +84,7 @@
         30
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -130,8 +130,8 @@
       "id": 149,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1889.59814453125,
-        "1": 2154.081787109375,
+        "0": 1889.7940673828125,
+        "1": 2040,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -146,7 +146,7 @@
         30
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -192,8 +192,8 @@
       "id": 139,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 2074.081787109375,
+        "0": 479.7940673828125,
+        "1": 1960,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -208,7 +208,7 @@
         30
       ],
       "flags": {},
-      "order": 24,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -251,8 +251,8 @@
       "id": 141,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 2114.081787109375,
+        "0": 479.7940673828125,
+        "1": 2000,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -267,7 +267,7 @@
         30
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [
         {
@@ -310,8 +310,8 @@
       "id": 148,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 2154.081787109375,
+        "0": 479.7940673828125,
+        "1": 2040,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -326,7 +326,7 @@
         30
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -369,8 +369,8 @@
       "id": 145,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1799.59814453125,
-        "1": 1754.083740234375,
+        "0": 1799.7940673828125,
+        "1": 1640,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -385,7 +385,7 @@
         30
       ],
       "flags": {},
-      "order": 53,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -433,8 +433,8 @@
       "id": 142,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1829.59814453125,
-        "1": 2074.081787109375,
+        "0": 1829.7940673828125,
+        "1": 1960,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -449,7 +449,7 @@
         30
       ],
       "flags": {},
-      "order": 40,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -495,8 +495,8 @@
       "id": 152,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1889.59814453125,
-        "1": 1874.083740234375,
+        "0": 1889.7940673828125,
+        "1": 1760,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -511,7 +511,7 @@
         30
       ],
       "flags": {},
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -559,8 +559,8 @@
       "id": 151,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1859.59814453125,
-        "1": 1834.083740234375,
+        "0": 1859.7940673828125,
+        "1": 1720,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -575,7 +575,7 @@
         30
       ],
       "flags": {},
-      "order": 55,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -622,8 +622,8 @@
       "id": 150,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1829.59814453125,
-        "1": 1794.083740234375,
+        "0": 1829.7940673828125,
+        "1": 1680,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -638,7 +638,7 @@
         30
       ],
       "flags": {},
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -686,7 +686,7 @@
       "id": 147,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1789.59814453125,
+        "0": 1789.3922119140625,
         "1": -185.91680908203125,
         "2": 0,
         "3": 0,
@@ -702,7 +702,7 @@
         30
       ],
       "flags": {},
-      "order": 83,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -749,7 +749,7 @@
       "id": 156,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1819.59814453125,
+        "0": 1819.3922119140625,
         "1": -145.91680908203125,
         "2": 0,
         "3": 0,
@@ -765,7 +765,7 @@
         30
       ],
       "flags": {},
-      "order": 84,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -812,7 +812,7 @@
       "id": 157,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1849.59814453125,
+        "0": 1849.3922119140625,
         "1": -105.91680908203125,
         "2": 0,
         "3": 0,
@@ -828,7 +828,7 @@
         30
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -875,8 +875,8 @@
       "id": 140,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 2034.083740234375,
+        "0": 479.7940673828125,
+        "1": 1920,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -891,7 +891,7 @@
         30
       ],
       "flags": {},
-      "order": 23,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -933,8 +933,8 @@
       "id": 165,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 949.5980834960938,
-        "1": 1034.083740234375,
+        "0": 949.7940673828125,
+        "1": 950,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -949,7 +949,7 @@
         30
       ],
       "flags": {},
-      "order": 51,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -995,8 +995,8 @@
       "id": 153,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1829.59814453125,
-        "1": 1154.083740234375,
+        "0": 1829.7940673828125,
+        "1": 1070,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1011,7 +1011,7 @@
         30
       ],
       "flags": {},
-      "order": 64,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -1059,8 +1059,8 @@
       "id": 146,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1799.59814453125,
-        "1": 1114.083740234375,
+        "0": 1799.7940673828125,
+        "1": 1030,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1075,7 +1075,7 @@
         30
       ],
       "flags": {},
-      "order": 63,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -1123,7 +1123,7 @@
       "id": 158,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1879.59814453125,
+        "0": 1879.3922119140625,
         "1": -65.91680908203125,
         "2": 0,
         "3": 0,
@@ -1139,7 +1139,7 @@
         30
       ],
       "flags": {},
-      "order": 85,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -1186,8 +1186,8 @@
       "id": 215,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1789.59814453125,
-        "1": 434.08319091796875,
+        "0": 1789.7940673828125,
+        "1": 410,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1202,7 +1202,7 @@
         30
       ],
       "flags": {},
-      "order": 73,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -1250,8 +1250,8 @@
       "id": 216,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1819.59814453125,
-        "1": 474.08319091796875,
+        "0": 1819.7940673828125,
+        "1": 450,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1266,7 +1266,7 @@
         30
       ],
       "flags": {},
-      "order": 74,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -1314,8 +1314,8 @@
       "id": 217,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1849.59814453125,
-        "1": 514.0836181640625,
+        "0": 1849.7940673828125,
+        "1": 490,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1378,8 +1378,8 @@
       "id": 218,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1879.59814453125,
-        "1": 554.0836181640625,
+        "0": 1879.7940673828125,
+        "1": 530,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1394,7 +1394,7 @@
         30
       ],
       "flags": {},
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -1439,81 +1439,18 @@
       "bgcolor": "#335"
     },
     {
-      "id": 222,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 989.5980834960938,
-        "1": 444.08319091796875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 90,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 453,
-          "dir": 2,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "links": [
-            449,
-            451
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Bottom",
-          "Top"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 117,
       "type": "ImagesGridByRows",
       "pos": [
-        2609.5980229462216,
-        924.0831991678003
+        2609.7940673828125,
+        840
       ],
       "size": {
         "0": 315,
         "1": 102
       },
       "flags": {},
-      "order": 113,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -1552,8 +1489,8 @@
       "id": 160,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 989.5980834960938,
-        "1": 1074.083740234375,
+        "0": 989.7940673828125,
+        "1": 990,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1568,7 +1505,7 @@
         30
       ],
       "flags": {},
-      "order": 81,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -1612,72 +1549,10 @@
       "bgcolor": "#335"
     },
     {
-      "id": 230,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 949.5980834960938,
-        "1": 254.08319091796875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 508,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            470
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Top"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 166,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 949.5980834960938,
+        "0": 949.3921508789062,
         "1": -225.91680908203125,
         "2": 0,
         "3": 0,
@@ -1693,7 +1568,7 @@
         30
       ],
       "flags": {},
-      "order": 52,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -1739,7 +1614,7 @@
       "id": 162,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 989.5980834960938,
+        "0": 989.3921508789062,
         "1": -205.91680908203125,
         "2": 0,
         "3": 0,
@@ -1755,7 +1630,7 @@
         30
       ],
       "flags": {},
-      "order": 96,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -1799,135 +1674,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 229,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 949.5980834960938,
-        "1": 514.0836181640625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 36,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 506,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            467
-          ],
-          "dir": 2,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Bottom"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 231,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 909.5980834960938,
-        "1": 644.0836181640625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 510,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            473
-          ],
-          "dir": 2,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Bottom"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 167,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 919.5980834960938,
-        "1": 1674.083740234375,
+        "0": 919.7940673828125,
+        "1": 1550,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -1942,7 +1693,7 @@
         30
       ],
       "flags": {},
-      "order": 50,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -1988,8 +1739,8 @@
       "id": 155,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1889.59814453125,
-        "1": 1234.083740234375,
+        "0": 1889.7940673828125,
+        "1": 1150,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2004,7 +1755,7 @@
         30
       ],
       "flags": {},
-      "order": 65,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -2052,15 +1803,15 @@
       "id": 88,
       "type": "ImpactMakeImageBatch",
       "pos": [
-        2449.5980229462216,
-        1014.0831991678003
+        2449.7940673828125,
+        930
       ],
       "size": {
         "0": 140,
         "1": 110
       },
       "flags": {},
-      "order": 112,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -2108,70 +1859,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 237,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 2379.597900390625,
-        "1": -205.91680908203125,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 110,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 479,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " "
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            485
-          ],
-          "dir": 2,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Bottom"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 239,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2329.597900390625,
-        "1": 1024.083740234375,
+        "0": 2329.794189453125,
+        "1": 940,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2186,7 +1878,7 @@
         30
       ],
       "flags": {},
-      "order": 109,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -2229,8 +1921,8 @@
       "id": 240,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2379.597900390625,
-        "1": 994.0836181640625,
+        "0": 2379.794189453125,
+        "1": 910,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2245,7 +1937,7 @@
         30
       ],
       "flags": {},
-      "order": 111,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -2288,8 +1980,8 @@
       "id": 236,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2489.597900390625,
-        "1": 1214.083740234375,
+        "0": 2489.794189453125,
+        "1": 1130,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2304,7 +1996,7 @@
         30
       ],
       "flags": {},
-      "order": 70,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -2352,8 +2044,8 @@
       "id": 244,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2329.597900390625,
-        "1": 1084.083740234375,
+        "0": 2329.794189453125,
+        "1": 1000,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2368,7 +2060,7 @@
         30
       ],
       "flags": {},
-      "order": 108,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -2412,15 +2104,15 @@
       "id": 213,
       "type": "CR Simple Text Watermark",
       "pos": [
-        2609.5980229462216,
-        1084.083199167802
+        2609.7940673828125,
+        1000
       ],
       "size": {
         "0": 320,
         "1": 270
       },
       "flags": {},
-      "order": 114,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -2472,82 +2164,18 @@
       "bgcolor": "#335"
     },
     {
-      "id": 221,
-      "type": "CR Text Replace",
-      "pos": [
-        1059.5980229462218,
-        384.0831991678011
-      ],
-      "size": {
-        "0": 230,
-        "1": 174
-      },
-      "flags": {},
-      "order": 95,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 455,
-          "widget": {
-            "name": "text"
-          }
-        },
-        {
-          "name": "replace1",
-          "type": "STRING",
-          "link": 449,
-          "widget": {
-            "name": "replace1"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "*",
-          "links": [
-            448
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Text Replace"
-      },
-      "widgets_values": [
-        "",
-        "_WILDCARD_",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 52,
       "type": "CR Text Replace",
       "pos": [
-        1059.5980229462218,
-        1034.083199167802
+        1059.7940673828125,
+        950
       ],
       "size": {
         "0": 230,
         "1": 174
       },
       "flags": {},
-      "order": 89,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -2600,75 +2228,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 102,
-      "type": "CR Text Replace",
-      "pos": [
-        1059.5980229462218,
-        1674.083199167802
-      ],
-      "size": {
-        "0": 230,
-        "1": 174
-      },
-      "flags": {},
-      "order": 91,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 308,
-          "widget": {
-            "name": "text"
-          }
-        },
-        {
-          "name": "replace1",
-          "type": "STRING",
-          "link": 303,
-          "widget": {
-            "name": "replace1"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "*",
-          "links": [
-            190
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Text Replace"
-      },
-      "widgets_values": [
-        "",
-        "_WILDCARD_",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 252,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1309.59814453125,
-        "1": 1504.083740234375,
+        "0": 1309.7940673828125,
+        "1": 1390,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2683,13 +2247,13 @@
         30
       ],
       "flags": {},
-      "order": 47,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 495,
+          "link": 596,
           "dir": 3,
           "has_old_label": true,
           "label": " ",
@@ -2729,8 +2293,8 @@
       "id": 253,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1309.59814453125,
-        "1": 1084.083740234375,
+        "0": 1309.7940673828125,
+        "1": 1000,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2745,7 +2309,7 @@
         30
       ],
       "flags": {},
-      "order": 60,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2789,75 +2353,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 254,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 1309.59814453125,
-        "1": 424.08319091796875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 68,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 499,
-          "dir": 2,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            498,
-            501
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Bottom",
-          "Top"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 250,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1309.59814453125,
-        "1": 1544.083740234375,
+        "0": 1309.7940673828125,
+        "1": 1430,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -2872,13 +2372,13 @@
         30
       ],
       "flags": {},
-      "order": 46,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 492,
+          "link": 598,
           "dir": 3,
           "has_old_label": true,
           "label": " ",
@@ -2918,7 +2418,7 @@
       "id": 255,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1309.59814453125,
+        "0": 1309.3922119140625,
         "1": -205.91680908203125,
         "2": 0,
         "3": 0,
@@ -2934,7 +2434,7 @@
         30
       ],
       "flags": {},
-      "order": 78,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2978,247 +2478,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 224,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 384.08319091796875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 20,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 456,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            455
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 257,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 514.0836181640625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 19,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 507,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            506
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 259,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 644.0836181640625,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 511,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            510
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 256,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 1309.59814453125,
-        "1": 1694.083740234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 59,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 504,
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            502
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Top",
-          "Right"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 260,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 989.5980834960938,
-        "1": 1244.083740234375,
+        "0": 989.7940673828125,
+        "1": 1160,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -3233,7 +2497,7 @@
         30
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -3276,135 +2540,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 161,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 989.5980834960938,
-        "1": 1694.083740234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 82,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 515,
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "links": [
-            303
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Top",
-          "Right"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 262,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 1254.083740234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 29,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 516,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            517
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Right"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 263,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2489.597900390625,
-        "1": 1254.083740234375,
+        "0": 2489.794189453125,
+        "1": 1170,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -3419,7 +2559,7 @@
         30
       ],
       "flags": {},
-      "order": 44,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -3462,69 +2602,11 @@
       "bgcolor": "#335"
     },
     {
-      "id": 258,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 254.08319091796875,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 21,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 509,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            508
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 261,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 989.5980834960938,
-        "1": 1184.083740234375,
+        "0": 989.7940673828125,
+        "1": 1100,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -3539,7 +2621,7 @@
         30
       ],
       "flags": {},
-      "order": 71,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -3582,210 +2664,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 105,
-      "type": "ttN text",
-      "pos": [
-        -259.37974245636855,
-        648.2780060718751
-      ],
-      "size": {
-        "0": 440,
-        "1": 76.00000762939453
-      },
-      "flags": {},
-      "order": 0,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            511
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Prompt 4",
-      "properties": {
-        "Node name for S&R": "ttN text",
-        "ttNnodeVersion": "1.0.0"
-      },
-      "widgets_values": [
-        "landscape, art by _WILDCARD_"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 101,
-      "type": "ttN text",
-      "pos": [
-        -259.37974245636855,
-        518.2780060718753
-      ],
-      "size": {
-        "0": 440,
-        "1": 76.00000762939453
-      },
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            507
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Prompt 3",
-      "properties": {
-        "Node name for S&R": "ttN text",
-        "ttNnodeVersion": "1.0.0"
-      },
-      "widgets_values": [
-        "cityscape, art by _WILDCARD_"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 223,
-      "type": "ttN text",
-      "pos": [
-        -259.37974245636855,
-        388.2780060718759
-      ],
-      "size": {
-        "0": 440,
-        "1": 76.00000762939453
-      },
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            456
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Prompt 2",
-      "properties": {
-        "Node name for S&R": "ttN text",
-        "ttNnodeVersion": "1.0.0"
-      },
-      "widgets_values": [
-        "portrait, art by _WILDCARD_"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "ttN text",
-      "pos": [
-        -259.37974245636855,
-        258.278006071876
-      ],
-      "size": {
-        "0": 440,
-        "1": 76.00000762939453
-      },
-      "flags": {},
-      "order": 3,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            509
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Prompt 1",
-      "properties": {
-        "Node name for S&R": "ttN text",
-        "ttNnodeVersion": "1.0.0"
-      },
-      "widgets_values": [
-        "woman, art by _WILDCARD_"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 266,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 390,
-        "1": 1230,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 30,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 521,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "links": [
-            530
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Top"
-        ]
-      }
-    },
-    {
       "id": 275,
       "type": "Reroute (rgthree)",
       "pos": {
@@ -3805,7 +2683,7 @@
         30
       ],
       "flags": {},
-      "order": 4,
+      "order": 0,
       "mode": 0,
       "inputs": [
         {
@@ -3841,194 +2719,11 @@
       }
     },
     {
-      "id": 271,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 360,
-        "1": 1150,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 27,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 528,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            531
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Top"
-        ]
-      }
-    },
-    {
-      "id": 272,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 330,
-        "1": 990,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 529,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            532
-          ],
-          "dir": 1,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Top"
-        ]
-      }
-    },
-    {
-      "id": 249,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 479.5980224609375,
-        "1": 1524.083740234375,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 505,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            492,
-            495
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Right"
-        ]
-      },
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 281,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 1064.083740234375,
+        "0": 480,
+        "1": 1070,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4043,7 +2738,7 @@
         30
       ],
       "flags": {},
-      "order": 28,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -4089,8 +2784,8 @@
       "id": 282,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 1024.083740234375,
+        "0": 480,
+        "1": 1030,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4105,7 +2800,7 @@
         30
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -4151,8 +2846,8 @@
       "id": 283,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 479.5980224609375,
-        "1": 984.0836181640625,
+        "0": 480,
+        "1": 990,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4167,7 +2862,7 @@
         30
       ],
       "flags": {},
-      "order": 32,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -4213,8 +2908,8 @@
       "id": 159,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 849.5980834960938,
-        "1": 1214.083740234375,
+        "0": 849.7940673828125,
+        "1": 1130,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4293,7 +2988,7 @@
         30
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -4353,7 +3048,7 @@
         30
       ],
       "flags": {},
-      "order": 43,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -4413,7 +3108,7 @@
         30
       ],
       "flags": {},
-      "order": 45,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -4473,7 +3168,7 @@
         30
       ],
       "flags": {},
-      "order": 58,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -4533,7 +3228,7 @@
         30
       ],
       "flags": {},
-      "order": 57,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -4577,7 +3272,7 @@
       "id": 33,
       "type": "CR Text Replace",
       "pos": [
-        1059.5980229462218,
+        1059.3920903290343,
         -225.9168008321993
       ],
       "size": {
@@ -4585,7 +3280,7 @@
         "1": 174
       },
       "flags": {},
-      "order": 101,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -4657,7 +3352,7 @@
         30
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -4701,16 +3396,16 @@
       "id": 187,
       "type": "LoadImagesFromDir //Inspire",
       "pos": [
-        3430,
-        -70
+        3381.335439326622,
+        -263.65433644351384
       ],
       "size": {
         "0": 294,
         "1": 100
       },
       "flags": {},
-      "order": 86,
-      "mode": 4,
+      "order": 95,
+      "mode": 2,
       "inputs": [
         {
           "name": "directory",
@@ -4777,8 +3472,8 @@
       "id": 238,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2330.299072265625,
-        "1": 400,
+        "0": 2329.794189453125,
+        "1": 370,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4793,7 +3488,7 @@
         30
       ],
       "flags": {},
-      "order": 106,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -4836,8 +3531,8 @@
       "id": 245,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 2330.299072265625,
-        "1": 1690,
+        "0": 2329.794189453125,
+        "1": 1570,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -4852,7 +3547,7 @@
         30
       ],
       "flags": {},
-      "order": 105,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -4896,15 +3591,15 @@
       "id": 220,
       "type": "Eff. Loader SDXL",
       "pos": [
-        1370.2990112304688,
-        340
+        1369.7940673828125,
+        310
       ],
       "size": {
         "0": 410,
         "1": 350
       },
       "flags": {},
-      "order": 100,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -4997,7 +3692,7 @@
       "id": 1,
       "type": "Eff. Loader SDXL",
       "pos": [
-        1370.2990112304688,
+        1370.0930786132812,
         -270
       ],
       "size": {
@@ -5005,7 +3700,7 @@
         "1": 350
       },
       "flags": {},
-      "order": 104,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -5098,16 +3793,16 @@
       "id": 289,
       "type": "Text Concatenate",
       "pos": [
-        3430,
-        330
+        3381.335439326622,
+        136.3456635564862
       ],
       "size": {
         "0": 290,
         "1": 142
       },
       "flags": {},
-      "order": 93,
-      "mode": 4,
+      "order": 97,
+      "mode": 2,
       "inputs": [
         {
           "name": "text_a",
@@ -5171,8 +3866,8 @@
       "id": 279,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 3050,
-        "1": -190,
+        "0": 3001.33447265625,
+        "1": -373.654296875,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5187,8 +3882,8 @@
         30
       ],
       "flags": {},
-      "order": 67,
-      "mode": 4,
+      "order": 74,
+      "mode": 2,
       "inputs": [
         {
           "name": "",
@@ -5234,16 +3929,16 @@
       "id": 265,
       "type": "Simple String Combine (WLSH)",
       "pos": [
-        3130,
-        -110
+        3081.335439326622,
+        -303.6543364435136
       ],
       "size": {
         "0": 240,
-        "1": 124
+        "1": 124.00000762939453
       },
       "flags": {},
-      "order": 76,
-      "mode": 4,
+      "order": 84,
+      "mode": 2,
       "inputs": [
         {
           "name": "input_string",
@@ -5281,16 +3976,16 @@
       "id": 295,
       "type": "ttN text",
       "pos": [
-        3130,
-        70
+        3081.335439326622,
+        -123.65433644351373
       ],
       "size": {
         "0": 240,
         "1": 76
       },
       "flags": {},
-      "order": 5,
-      "mode": 4,
+      "order": 1,
+      "mode": 2,
       "outputs": [
         {
           "name": "text",
@@ -5316,16 +4011,16 @@
       "id": 296,
       "type": "CR Integer To String",
       "pos": [
-        3130,
-        250
+        3081.335439326622,
+        56.34566355648612
       ],
       "size": {
         "0": 240,
         "1": 54
       },
       "flags": {},
-      "order": 87,
-      "mode": 4,
+      "order": 90,
+      "mode": 2,
       "inputs": [
         {
           "name": "int_",
@@ -5366,16 +4061,16 @@
       "id": 297,
       "type": "ttN text",
       "pos": [
-        3130,
-        350
+        3081.335439326622,
+        156.34566355648624
       ],
       "size": {
         "0": 240,
         "1": 76
       },
       "flags": {},
-      "order": 6,
-      "mode": 4,
+      "order": 2,
+      "mode": 2,
       "outputs": [
         {
           "name": "text",
@@ -5401,16 +4096,16 @@
       "id": 298,
       "type": "CR Integer To String",
       "pos": [
-        3130,
-        520
+        3081.335439326622,
+        326.3456635564866
       ],
       "size": {
         "0": 240,
         "1": 60
       },
       "flags": {},
-      "order": 88,
-      "mode": 4,
+      "order": 91,
+      "mode": 2,
       "inputs": [
         {
           "name": "int_",
@@ -5451,16 +4146,16 @@
       "id": 318,
       "type": "Simple String Combine (WLSH)",
       "pos": [
-        3430,
-        -250
+        3381.335439326622,
+        -443.6543364435134
       ],
       "size": {
         "0": 290,
-        "1": 124
+        "1": 124.00000762939453
       },
       "flags": {},
-      "order": 77,
-      "mode": 4,
+      "order": 85,
+      "mode": 2,
       "inputs": [
         {
           "name": "input_string",
@@ -5495,77 +4190,18 @@
       "bgcolor": "#653"
     },
     {
-      "id": 285,
-      "type": "Image Save",
-      "pos": [
-        3830,
-        -250
-      ],
-      "size": {
-        "0": 690,
-        "1": 2440
-      },
-      "flags": {},
-      "order": 98,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 549
-        },
-        {
-          "name": "output_path",
-          "type": "STRING",
-          "link": 591,
-          "widget": {
-            "name": "output_path"
-          }
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 557,
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "slot_index": 2
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Image Save"
-      },
-      "widgets_values": [
-        "[time(%Y-%m-%d)]",
-        "",
-        "",
-        1,
-        "false",
-        "png",
-        100,
-        "false",
-        "prefix_as_filename",
-        "false",
-        "true",
-        "false",
-        "true"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 61,
       "type": "Eff. Loader SDXL",
       "pos": [
-        1370.2990112304688,
-        990
+        1369.7940673828125,
+        910
       ],
       "size": {
         "0": 410,
         "1": 350
       },
       "flags": {},
-      "order": 94,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -5658,8 +4294,8 @@
       "id": 154,
       "type": "Reroute (rgthree)",
       "pos": {
-        "0": 1859.59814453125,
-        "1": 1194.083740234375,
+        "0": 1859.7940673828125,
+        "1": 1110,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -5674,7 +4310,7 @@
         30
       ],
       "flags": {},
-      "order": 7,
+      "order": 3,
       "mode": 0,
       "inputs": [
         {
@@ -5722,15 +4358,15 @@
       "id": 103,
       "type": "Eff. Loader SDXL",
       "pos": [
-        1370.2990112304688,
-        1630
+        1369.7940673828125,
+        1510
       ],
       "size": {
         "0": 420,
         "1": 350
       },
       "flags": {},
-      "order": 97,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -5821,423 +4457,312 @@
       "shape": 1
     },
     {
-      "id": 62,
-      "type": "KSampler SDXL (Eff.)",
+      "id": 201,
+      "type": "Create Grid Image from Batch",
       "pos": [
-        1950.2990112304688,
-        990
+        3381.335439326622,
+        -103.65433644351371
       ],
       "size": {
-        "0": 330,
-        "1": 550
+        "0": 290,
+        "1": 180
       },
       "flags": {},
-      "order": 99,
-      "mode": 0,
+      "order": 102,
+      "mode": 2,
       "inputs": [
         {
-          "name": "sdxl_tuple",
-          "type": "SDXL_TUPLE",
-          "link": 99
-        },
+          "name": "images",
+          "type": "IMAGE",
+          "link": 420
+        }
+      ],
+      "outputs": [
         {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 100
-        },
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            549
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Create Grid Image from Batch"
+      },
+      "widgets_values": [
+        4,
+        1,
+        1024,
+        0,
+        0,
+        0
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 280,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 3001.33447265625,
+        "1": -413.654296875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 70,
+      "mode": 2,
+      "inputs": [
         {
-          "name": "optional_vae",
-          "type": "VAE",
-          "link": 101
-        },
-        {
-          "name": "script",
-          "type": "SCRIPT",
-          "link": null
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 266,
+          "name": "",
+          "type": "*",
+          "link": 567,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
           "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "cfg",
-          "type": "FLOAT",
-          "link": 278,
-          "widget": {
-            "name": "cfg"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 279,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 280,
-          "widget": {
-            "name": "scheduler"
+            "name": "value"
           }
         }
       ],
       "outputs": [
         {
-          "name": "SDXL_TUPLE",
-          "type": "SDXL_TUPLE",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
+          "name": "int",
+          "type": "INT",
           "links": [
-            446
+            581,
+            589
           ],
-          "shape": 3,
-          "slot_index": 3
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
         }
       ],
       "properties": {
-        "Node name for S&R": "KSampler SDXL (Eff.)"
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Right"
+        ]
       },
-      "widgets_values": [
-        514035670878452,
-        null,
-        7,
-        2.3000000000000003,
-        "dpmpp_2m",
-        "karras",
-        0,
-        -1,
-        "auto",
-        "true"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
+      "color": "#432",
+      "bgcolor": "#653"
     },
     {
-      "id": 219,
-      "type": "KSampler SDXL (Eff.)",
+      "id": 301,
+      "type": "Evaluate Integers",
       "pos": [
-        1950.2990112304688,
-        340
+        3081.335439326622,
+        6.345663556486248
       ],
       "size": {
-        "0": 330,
-        "1": 550
+        "0": 250,
+        "1": 170
       },
-      "flags": {},
-      "order": 103,
-      "mode": 0,
+      "flags": {
+        "collapsed": true
+      },
+      "order": 80,
+      "mode": 2,
       "inputs": [
         {
-          "name": "sdxl_tuple",
-          "type": "SDXL_TUPLE",
-          "link": 440
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 441
-        },
-        {
-          "name": "optional_vae",
-          "type": "VAE",
-          "link": 442
-        },
-        {
-          "name": "script",
-          "type": "SCRIPT",
-          "link": null
-        },
-        {
-          "name": "steps",
+          "name": "a",
           "type": "INT",
-          "link": 436,
+          "link": 574,
           "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "cfg",
-          "type": "FLOAT",
-          "link": 437,
-          "widget": {
-            "name": "cfg"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 438,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 439,
-          "widget": {
-            "name": "scheduler"
+            "name": "a"
           }
         }
       ],
-      "outputs": [
-        {
-          "name": "SDXL_TUPLE",
-          "type": "SDXL_TUPLE",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            480
-          ],
-          "shape": 3,
-          "slot_index": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler SDXL (Eff.)"
-      },
-      "widgets_values": [
-        514035670878452,
-        null,
-        7,
-        2.3000000000000003,
-        "dpmpp_2m",
-        "karras",
-        0,
-        -1,
-        "auto",
-        "true"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
-      "id": 130,
-      "type": "GlobalSeed //Inspire",
-      "pos": [
-        -266.0569152974974,
-        1647.8844277221679
-      ],
-      "size": {
-        "0": 430,
-        "1": 130
-      },
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "title": "Seed",
-      "properties": {
-        "Node name for S&R": "GlobalSeed //Inspire"
-      },
-      "widgets_values": [
-        514035670878452,
-        false,
-        "fixed",
-        514035670878452
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 133,
-      "type": "PrimitiveNode",
-      "pos": [
-        -266.0569152974974,
-        1827.8844277221679
-      ],
-      "size": {
-        "0": 210,
-        "1": 80
-      },
-      "flags": {},
-      "order": 9,
-      "mode": 0,
       "outputs": [
         {
           "name": "INT",
           "type": "INT",
           "links": [
-            457
+            575
           ],
-          "slot_index": 0,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "title": "Steps",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        7,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 134,
-      "type": "PrimitiveNode",
-      "pos": [
-        -266.0569152974974,
-        1957.8844277221679
-      ],
-      "size": {
-        "0": 210,
-        "1": 80
-      },
-      "flags": {},
-      "order": 10,
-      "mode": 0,
-      "outputs": [
+          "shape": 3,
+          "slot_index": 0
+        },
         {
           "name": "FLOAT",
           "type": "FLOAT",
-          "links": [
-            458
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "value"
-          }
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
         }
       ],
-      "title": "CFG",
       "properties": {
-        "Run widget replace on values": false
+        "Node name for S&R": "Evaluate Integers"
       },
       "widgets_values": [
-        2.3000000000000003,
-        "fixed"
+        "a + 1",
+        "False",
+        0,
+        0,
+        0
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "shape": 1
     },
     {
-      "id": 131,
-      "type": "PrimitiveNode",
+      "id": 303,
+      "type": "Evaluate Integers",
       "pos": [
-        -266.0569152974974,
-        2087.884427722168
+        3081.335439326622,
+        276.3456635564866
       ],
       "size": {
-        "0": 210,
-        "1": 110
+        "0": 250,
+        "1": 170
       },
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "outputs": [
+      "flags": {
+        "collapsed": true
+      },
+      "order": 81,
+      "mode": 2,
+      "inputs": [
         {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            459
-          ],
-          "slot_index": 0,
+          "name": "a",
+          "type": "INT",
+          "link": 595,
           "widget": {
-            "name": "value"
+            "name": "a"
+          }
+        },
+        {
+          "name": "b",
+          "type": "INT",
+          "link": 581,
+          "widget": {
+            "name": "b"
           }
         }
       ],
-      "title": "Sampler",
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            582
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
       "properties": {
-        "Run widget replace on values": false
+        "Node name for S&R": "Evaluate Integers"
       },
       "widgets_values": [
-        "dpmpp_2m",
-        "fixed",
-        ""
+        "a + b",
+        "False",
+        0,
+        0,
+        0
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "shape": 1
     },
     {
-      "id": 132,
-      "type": "PrimitiveNode",
-      "pos": [
-        -266.0569152974974,
-        2247.884427722168
-      ],
-      "size": {
-        "0": 210,
-        "1": 110
+      "id": 237,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 2379.794189453125,
+        "1": -210,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
       },
+      "size": [
+        40,
+        30
+      ],
       "flags": {},
-      "order": 12,
+      "order": 115,
       "mode": 0,
-      "outputs": [
+      "inputs": [
         {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            460
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "value"
-          }
+          "name": "",
+          "type": "*",
+          "link": 479,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " "
         }
       ],
-      "title": "Scheduler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "karras",
-        "fixed",
-        ""
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            485
+          ],
+          "dir": 2,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Bottom"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
     },
     {
       "id": 3,
       "type": "KSampler SDXL (Eff.)",
       "pos": [
-        1950,
+        1949.7940673828125,
         -270
       ],
       "size": {
@@ -6245,7 +4770,7 @@
         "1": 530
       },
       "flags": {},
-      "order": 107,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -6354,25 +4879,127 @@
       "shape": 1
     },
     {
-      "id": 248,
+      "id": 25,
+      "type": "Load Text File",
+      "pos": [
+        -40,
+        800
+      ],
+      "size": {
+        "0": 340,
+        "1": 102
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            547
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "DICT",
+          "type": "DICT",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "title": "Path to Wildcard File",
+      "properties": {
+        "Node name for S&R": "Load Text File"
+      },
+      "widgets_values": [
+        "./custom_nodes/NX_PromptStyler/Wildcards/artist.txt",
+        "[filename]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 271,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 360,
+        "1": 1100,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 528,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            531
+          ],
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Top"
+        ]
+      }
+    },
+    {
+      "id": 131,
       "type": "PrimitiveNode",
       "pos": [
-        -260,
-        1490
+        90,
+        1810
       ],
       "size": {
         "0": 210,
         "1": 110
       },
       "flags": {},
-      "order": 15,
+      "order": 5,
       "mode": 0,
       "outputs": [
         {
           "name": "COMBO",
           "type": "COMBO",
           "links": [
-            505
+            459
           ],
           "slot_index": 0,
           "widget": {
@@ -6380,12 +5007,12 @@
           }
         }
       ],
-      "title": "Model",
+      "title": "Sampler",
       "properties": {
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "rmsdxlHybridTurboXL_scorpius.safetensors",
+        "dpmpp_2m",
         "fixed",
         ""
       ],
@@ -6393,97 +5020,489 @@
       "bgcolor": "#353"
     },
     {
-      "id": 26,
-      "type": "CR Prompt List",
+      "id": 132,
+      "type": "PrimitiveNode",
       "pos": [
-        549.5980229462217,
-        1014.0831991678003
+        90,
+        1960
       ],
       "size": {
         "0": 210,
-        "1": 153.99996948242188
+        "1": 110
       },
       "flags": {},
-      "order": 49,
+      "order": 6,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            460
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "karras",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 134,
+      "type": "PrimitiveNode",
+      "pos": [
+        90,
+        1690
+      ],
+      "size": {
+        "0": 210,
+        "1": 80
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            458
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "title": "CFG",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        2.3000000000000003,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 133,
+      "type": "PrimitiveNode",
+      "pos": [
+        90,
+        1570
+      ],
+      "size": {
+        "0": 210,
+        "1": 80
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            457
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        7,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 272,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 330,
+        "1": 950,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
-          "name": "multiline_text",
-          "type": "STRING",
-          "link": 548,
+          "name": "",
+          "type": "*",
+          "link": 529,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
           "widget": {
-            "name": "multiline_text"
+            "name": "value"
           }
-        },
-        {
-          "name": "start_index",
-          "type": "INT",
-          "link": 544,
-          "widget": {
-            "name": "start_index"
-          }
-        },
-        {
-          "name": "max_rows",
-          "type": "INT",
-          "link": 546,
-          "widget": {
-            "name": "max_rows"
-          },
-          "slot_index": 2
         }
       ],
       "outputs": [
         {
-          "name": "prompt",
-          "type": "STRING",
+          "name": "int",
+          "type": "INT",
           "links": [
-            294
+            532
           ],
-          "shape": 6,
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
           "slot_index": 0
-        },
-        {
-          "name": "body_text",
-          "type": "STRING",
-          "links": [],
-          "shape": 6,
-          "slot_index": 1
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
         }
       ],
-      "title": "Select Lines",
       "properties": {
-        "Node name for S&R": "CR Prompt List"
-      },
-      "widgets_values": [
-        "",
-        "body_text",
-        "",
-        60,
-        20
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Top"
+        ]
+      }
     },
     {
-      "id": 104,
+      "id": 219,
       "type": "KSampler SDXL (Eff.)",
       "pos": [
-        1960,
-        1630
+        1949.7940673828125,
+        310
       ],
       "size": {
         "0": 330,
         "1": 550
       },
       "flags": {},
-      "order": 102,
+      "order": 108,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "sdxl_tuple",
+          "type": "SDXL_TUPLE",
+          "link": 440
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 441
+        },
+        {
+          "name": "optional_vae",
+          "type": "VAE",
+          "link": 442
+        },
+        {
+          "name": "script",
+          "type": "SCRIPT",
+          "link": null
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 436,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "cfg",
+          "type": "FLOAT",
+          "link": 437,
+          "widget": {
+            "name": "cfg"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 438,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 439,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "SDXL_TUPLE",
+          "type": "SDXL_TUPLE",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            480
+          ],
+          "shape": 3,
+          "slot_index": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler SDXL (Eff.)"
+      },
+      "widgets_values": [
+        514035670878452,
+        null,
+        7,
+        2.3000000000000003,
+        "dpmpp_2m",
+        "karras",
+        0,
+        -1,
+        "auto",
+        "true"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 254,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 1309.7940673828125,
+        "1": 400,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 86,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 499,
+          "dir": 2,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            498,
+            501
+          ],
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Bottom",
+          "Top"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 62,
+      "type": "KSampler SDXL (Eff.)",
+      "pos": [
+        1949.7940673828125,
+        910
+      ],
+      "size": {
+        "0": 330,
+        "1": 550
+      },
+      "flags": {},
+      "order": 103,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "sdxl_tuple",
+          "type": "SDXL_TUPLE",
+          "link": 99
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 100
+        },
+        {
+          "name": "optional_vae",
+          "type": "VAE",
+          "link": 101
+        },
+        {
+          "name": "script",
+          "type": "SCRIPT",
+          "link": null
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 266,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "cfg",
+          "type": "FLOAT",
+          "link": 278,
+          "widget": {
+            "name": "cfg"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 279,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 280,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "SDXL_TUPLE",
+          "type": "SDXL_TUPLE",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            446
+          ],
+          "shape": 3,
+          "slot_index": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler SDXL (Eff.)"
+      },
+      "widgets_values": [
+        514035670878452,
+        null,
+        7,
+        2.3000000000000003,
+        "dpmpp_2m",
+        "karras",
+        0,
+        -1,
+        "auto",
+        "true"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 104,
+      "type": "KSampler SDXL (Eff.)",
+      "pos": [
+        1949.7940673828125,
+        1510
+      ],
+      "size": {
+        "0": 330,
+        "1": 550
+      },
+      "flags": {},
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -6588,18 +5607,1313 @@
       "shape": 1
     },
     {
+      "id": 102,
+      "type": "CR Text Replace",
+      "pos": [
+        1059.7940673828125,
+        1550
+      ],
+      "size": {
+        "0": 230,
+        "1": 174
+      },
+      "flags": {},
+      "order": 94,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 308,
+          "widget": {
+            "name": "text"
+          }
+        },
+        {
+          "name": "replace1",
+          "type": "STRING",
+          "link": 303,
+          "widget": {
+            "name": "replace1"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "*",
+          "links": [
+            190
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Replace"
+      },
+      "widgets_values": [
+        "",
+        "_WILDCARD_",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 161,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 989.7940673828125,
+        "1": 1570,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 83,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 515,
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            303
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Top",
+          "Right"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 256,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 1309.7940673828125,
+        "1": 1570,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 504,
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            502
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Top",
+          "Right"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 266,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 390,
+        "1": 1250,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 521,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            530
+          ],
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Top"
+        ]
+      }
+    },
+    {
+      "id": 262,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480.196044921875,
+        "1": 1180,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 516,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            517
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Right"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 324,
+      "type": "Bookmark (rgthree)",
+      "pos": {
+        "0": -380,
+        "1": 230,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 62
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Presets > 1",
+      "properties": {},
+      "widgets_values": [
+        "1",
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 278,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 3001.33447265625,
+        "1": -453.654296875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 69,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 555,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            574,
+            588,
+            595
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Right"
+        ]
+      },
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 325,
+      "type": "Bookmark (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": -270,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 62
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Generate > 2",
+      "properties": {},
+      "widgets_values": [
+        "2",
+        1
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 326,
+      "type": "Bookmark (rgthree)",
+      "pos": {
+        "0": 3001.33447265625,
+        "1": -463.654296875,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 210,
+        "1": 62
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 11,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [],
+      "title": "Grid > 3",
+      "properties": {},
+      "widgets_values": [
+        "3",
+        1
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 224,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": 360,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 456,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            455
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 230,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 950,
+        "1": 320,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 508,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            470
+          ],
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Top"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 221,
+      "type": "CR Text Replace",
+      "pos": [
+        1060,
+        360
+      ],
+      "size": {
+        "0": 230,
+        "1": 174
+      },
+      "flags": {},
+      "order": 99,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 455,
+          "widget": {
+            "name": "text"
+          }
+        },
+        {
+          "name": "replace1",
+          "type": "STRING",
+          "link": 449,
+          "widget": {
+            "name": "replace1"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "*",
+          "links": [
+            448
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Replace"
+      },
+      "widgets_values": [
+        "",
+        "_WILDCARD_",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 258,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": 320,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 509,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            508
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 257,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": 400,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 507,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            506
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 229,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 950,
+        "1": 400,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 506,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            467
+          ],
+          "dir": 2,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Bottom"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 222,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 990,
+        "1": 440,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 93,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 453,
+          "dir": 2,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            449,
+            451
+          ],
+          "dir": 1,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Bottom",
+          "Top"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 259,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": 440,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 511,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            510
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 231,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 910,
+        "1": 440,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 510,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            473
+          ],
+          "dir": 2,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Bottom"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 105,
+      "type": "ttN text",
+      "pos": [
+        -40,
+        620
+      ],
+      "size": {
+        "0": 340,
+        "1": 76
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            511
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Prompt 4",
+      "properties": {
+        "Node name for S&R": "ttN text",
+        "ttNnodeVersion": "1.0.0"
+      },
+      "widgets_values": [
+        "landscape, art by _WILDCARD_"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 101,
+      "type": "ttN text",
+      "pos": [
+        -40,
+        490
+      ],
+      "size": {
+        "0": 340,
+        "1": 76
+      },
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            507
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Prompt 3",
+      "properties": {
+        "Node name for S&R": "ttN text",
+        "ttNnodeVersion": "1.0.0"
+      },
+      "widgets_values": [
+        "cityscape, art by _WILDCARD_"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 223,
+      "type": "ttN text",
+      "pos": [
+        -40,
+        360
+      ],
+      "size": {
+        "0": 340,
+        "1": 76
+      },
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            456
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Prompt 2",
+      "properties": {
+        "Node name for S&R": "ttN text",
+        "ttNnodeVersion": "1.0.0"
+      },
+      "widgets_values": [
+        "portrait, art by _WILDCARD_"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 130,
+      "type": "GlobalSeed //Inspire",
+      "pos": [
+        -370,
+        510
+      ],
+      "size": {
+        "0": 310,
+        "1": 130
+      },
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "title": "Seed",
+      "properties": {
+        "Node name for S&R": "GlobalSeed //Inspire"
+      },
+      "widgets_values": [
+        514035670878452,
+        false,
+        "fixed",
+        514035670878452
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 322,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": {
+        "0": -370,
+        "1": 280,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": {
+        "0": 310,
+        "1": 180
+      },
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 285,
+      "type": "Image Save",
+      "pos": [
+        3780,
+        -440
+      ],
+      "size": {
+        "0": 690,
+        "1": 2510
+      },
+      "flags": {},
+      "order": 107,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 549
+        },
+        {
+          "name": "output_path",
+          "type": "STRING",
+          "link": 591,
+          "widget": {
+            "name": "output_path"
+          }
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 557,
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Image Save"
+      },
+      "widgets_values": [
+        "[time(%Y-%m-%d)]",
+        "",
+        "",
+        1,
+        "false",
+        "png",
+        100,
+        "false",
+        "prefix_as_filename",
+        "false",
+        "true",
+        "false",
+        "true"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 100,
+      "type": "ttN text",
+      "pos": [
+        -40,
+        230
+      ],
+      "size": {
+        "0": 340,
+        "1": 76
+      },
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            509
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Prompt 1",
+      "properties": {
+        "Node name for S&R": "ttN text",
+        "ttNnodeVersion": "1.0.0"
+      },
+      "widgets_values": [
+        "woman, art by _WILDCARD_"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 174,
       "type": "Image Save",
       "pos": [
         2610,
-        1420
+        1340
       ],
       "size": {
         "0": 320,
-        "1": 770
+        "1": 730
       },
       "flags": {},
-      "order": 115,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -6646,367 +6960,18 @@
       "bgcolor": "#335"
     },
     {
-      "id": 201,
-      "type": "Create Grid Image from Batch",
-      "pos": [
-        3430,
-        90
-      ],
-      "size": {
-        "0": 290,
-        "1": 180
-      },
-      "flags": {},
-      "order": 92,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 420
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            549
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Create Grid Image from Batch"
-      },
-      "widgets_values": [
-        4,
-        1,
-        1024,
-        0,
-        0,
-        0
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 280,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 3050,
-        "1": -230,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 66,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 567,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            581,
-            589
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Right"
-        ]
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 301,
-      "type": "Evaluate Integers",
-      "pos": [
-        3130,
-        200
-      ],
-      "size": {
-        "0": 250,
-        "1": 170
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 79,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "link": 574,
-          "widget": {
-            "name": "a"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            575
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Integers"
-      },
-      "widgets_values": [
-        "a + 1",
-        "False",
-        0,
-        0,
-        0
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159",
-      "shape": 1
-    },
-    {
-      "id": 278,
-      "type": "Reroute (rgthree)",
-      "pos": {
-        "0": 3050,
-        "1": -270,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0
-      },
-      "size": [
-        40,
-        30
-      ],
-      "flags": {},
-      "order": 69,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 555,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " ",
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            574,
-            588,
-            595
-          ],
-          "dir": 4,
-          "has_old_label": true,
-          "label": " ",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "resizable": false,
-        "size": [
-          40,
-          30
-        ],
-        "connections_layout": [
-          "Left",
-          "Right"
-        ]
-      },
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 303,
-      "type": "Evaluate Integers",
-      "pos": [
-        3130,
-        470
-      ],
-      "size": {
-        "0": 250,
-        "1": 170
-      },
-      "flags": {
-        "collapsed": true
-      },
-      "order": 80,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "link": 595,
-          "widget": {
-            "name": "a"
-          }
-        },
-        {
-          "name": "b",
-          "type": "INT",
-          "link": 581,
-          "widget": {
-            "name": "b"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            582
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Integers"
-      },
-      "widgets_values": [
-        "a + b",
-        "False",
-        0,
-        0,
-        0
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159",
-      "shape": 1
-    },
-    {
-      "id": 25,
-      "type": "Load Text File",
-      "pos": [
-        -266.2000366210939,
-        834.7999023437501
-      ],
-      "size": {
-        "0": 440,
-        "1": 102
-      },
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            547
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "DICT",
-          "type": "DICT",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "title": "Path to Wildcard File",
-      "properties": {
-        "Node name for S&R": "Load Text File"
-      },
-      "widgets_values": [
-        "",
-        "[filename]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 270,
       "type": "ttN int",
       "pos": [
-        -266.2000366210939,
-        984.7999023437501
+        -40,
+        950
       ],
       "size": {
-        "0": 440,
+        "0": 340,
         "1": 100
       },
       "flags": {},
-      "order": 17,
+      "order": 18,
       "mode": 0,
       "outputs": [
         {
@@ -7047,15 +7012,15 @@
       "id": 269,
       "type": "ttN int",
       "pos": [
-        -266.2000366210939,
-        1154.7999023437496
+        -40,
+        1100
       ],
       "size": {
-        "0": 440,
+        "0": 340,
         "1": 100
       },
       "flags": {},
-      "order": 13,
+      "order": 19,
       "mode": 0,
       "outputs": [
         {
@@ -7096,15 +7061,15 @@
       "id": 176,
       "type": "ttN text",
       "pos": [
-        -266.2000366210939,
-        1304.7999023437496
+        -40,
+        1250
       ],
       "size": {
-        "0": 440,
-        "1": 76.00006103515625
+        "0": 340,
+        "1": 76
       },
       "flags": {},
-      "order": 14,
+      "order": 20,
       "mode": 0,
       "outputs": [
         {
@@ -7118,7 +7083,7 @@
           "slot_index": 0
         }
       ],
-      "title": "Output Path Relative to ComfyUI Output Folder",
+      "title": "Output Path Relative Output Folder",
       "properties": {
         "Node name for S&R": "ttN text",
         "ttNnodeVersion": "1.0.0"
@@ -7128,6 +7093,249 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 248,
+      "type": "PrimitiveNode",
+      "pos": [
+        90,
+        1420
+      ],
+      "size": {
+        "0": 210,
+        "1": 110
+      },
+      "flags": {},
+      "order": 21,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            505
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "title": "Model",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "rmsdxlHybridTurboXL_scorpius.safetensors",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 249,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 480,
+        "1": 1410,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 505,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            597
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Right"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 327,
+      "type": "Reroute (rgthree)",
+      "pos": {
+        "0": 1200,
+        "1": 1410,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+      },
+      "size": [
+        40,
+        30
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 597,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " ",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            596,
+            598
+          ],
+          "dir": 4,
+          "has_old_label": true,
+          "label": " ",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          40,
+          30
+        ],
+        "connections_layout": [
+          "Left",
+          "Right"
+        ]
+      },
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 26,
+      "type": "CR Prompt List",
+      "pos": [
+        560,
+        1020
+      ],
+      "size": {
+        "0": 210,
+        "1": 153.99996948242188
+      },
+      "flags": {},
+      "order": 49,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "multiline_text",
+          "type": "STRING",
+          "link": 548,
+          "widget": {
+            "name": "multiline_text"
+          }
+        },
+        {
+          "name": "start_index",
+          "type": "INT",
+          "link": 544,
+          "widget": {
+            "name": "start_index"
+          }
+        },
+        {
+          "name": "max_rows",
+          "type": "INT",
+          "link": 546,
+          "widget": {
+            "name": "max_rows"
+          },
+          "slot_index": 2
+        }
+      ],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            294
+          ],
+          "shape": 6,
+          "slot_index": 0
+        },
+        {
+          "name": "body_text",
+          "type": "STRING",
+          "links": [],
+          "shape": 6,
+          "slot_index": 1
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "title": "Select Lines",
+      "properties": {
+        "Node name for S&R": "CR Prompt List"
+      },
+      "widgets_values": [
+        "",
+        "body_text",
+        "",
+        60,
+        20
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -7836,22 +8044,6 @@
       "*"
     ],
     [
-      492,
-      249,
-      0,
-      250,
-      0,
-      "*"
-    ],
-    [
-      495,
-      249,
-      0,
-      252,
-      0,
-      "*"
-    ],
-    [
       496,
       252,
       0,
@@ -8306,52 +8498,52 @@
       303,
       0,
       "INT"
+    ],
+    [
+      596,
+      327,
+      0,
+      252,
+      0,
+      "*"
+    ],
+    [
+      597,
+      249,
+      0,
+      327,
+      0,
+      "*"
+    ],
+    [
+      598,
+      327,
+      0,
+      250,
+      0,
+      "*"
     ]
   ],
   "groups": [
     {
-      "title": "Prompts",
+      "title": "PRESETS",
       "bounding": [
-        -270,
-        184,
-        459,
-        546
+        -390,
+        156,
+        700,
+        1924
       ],
       "color": "#8A8",
       "font_size": 24,
       "locked": false
     },
     {
-      "title": "File and Output Path & Select Lines",
+      "title": "GENERATE",
       "bounding": [
-        -276,
-        765,
-        460,
-        626
-      ],
-      "color": "#8A8",
-      "font_size": 24,
-      "locked": false
-    },
-    {
-      "title": "KSampler Parameters",
-      "bounding": [
-        -276,
-        1413,
-        458,
-        953
-      ],
-      "color": "#8A8",
-      "font_size": 24,
-      "locked": false
-    },
-    {
-      "title": "Generate",
-      "bounding": [
-        470,
+        469,
         -344,
-        2471,
-        2538
+        2470,
+        2424
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -8360,10 +8552,10 @@
     {
       "title": "GRID",
       "bounding": [
-        3040,
-        -344,
-        1490,
-        2544
+        2991,
+        -538,
+        1489,
+        2618
       ],
       "color": "#b58b2a",
       "font_size": 24,
